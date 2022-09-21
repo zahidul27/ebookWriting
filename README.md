@@ -476,7 +476,7 @@ dull tan color, with dark pa&mdash;"</p>
 <hr class="chap" />
 
 <div class="figcenter">
-  <img src="F:\HTML project/illus.jpg" alt=""/>
+  <img src="illus.jpg" alt=""/>
   <div class="caption">
     <p>A doorway dilated and something hopped in.</p>
   </div>
