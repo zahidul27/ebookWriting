@@ -1,5 +1,7 @@
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
     <title>
       The Project Gutenberg eBook of Definition, by Damon Knight.
     </title>
@@ -77,6 +79,16 @@ div.titlepage p {
   </head>
 <body>
 <p style='text-align:center; font-size:1.2em; font-weight:bold'>The Project Gutenberg eBook of Definition, by Damon Knight</p>
+<div style='display:block; margin:1em 0'>
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at <a href="https://www.gutenberg.org">www.gutenberg.org</a>. If you
+are not located in the United States, you will have to check the laws of the
+country where you are located before using this eBook.
+</div>
+
 <p style='display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em'>Title: Definition</p>
 <p style='display:block; margin-top:1em; margin-bottom:0; margin-left:2em; text-indent:-2em'>Author: Damon Knight</p>
 <p style='display:block; text-indent:0; margin:1em 0'>Release Date: September 18, 2022 [eBook #69009]</p>
@@ -740,4 +752,3 @@ think anybody will hesitate to call it a major victory. Over."</p>
 </div>
 </body>
 </html>
-
